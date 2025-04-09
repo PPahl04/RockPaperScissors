@@ -50,4 +50,4 @@ Falls drei Mal in Folge die gleichen Ergebnisse geschehen, dann ändert sich die
 2. Anwendung starten
     ```bash
     dotnet build
-    dotnet run
+    "Rock Paper Scissors App\bin\Debug\Rock Paper Scissors App.exe"
